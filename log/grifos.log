@@ -1,0 +1,42 @@
+2016-01-28 22:24:50 ERROR :69 - Column 'recibo' cannot be null
+2016-01-28 22:24:50,543 [ERROR]  - Column 'recibo' cannot be null
+2016-01-28 22:27:44 DEBUG :54 - Servidor Detenido
+2016-01-28 22:27:44,510 [DEBUG]  - Servidor Detenido
+2016-01-28 22:27:44 ERROR :69 - Socket closed
+2016-01-28 22:27:44,544 [ERROR]  - Socket closed
+2016-01-31 19:41:32 ERROR :69 - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 19:41:32,826 [ERROR]  - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 19:41:32 DEBUG :54 - Servidor Grifos Iniciado
+2016-01-31 19:41:32,914 [DEBUG]  - Servidor Grifos Iniciado
+2016-01-31 20:00:59 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:00:59,606 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:04:44 ERROR :69 - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:04:44,052 [ERROR]  - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:04:44 DEBUG :54 - Servidor Grifos Iniciado
+2016-01-31 20:04:44,092 [DEBUG]  - Servidor Grifos Iniciado
+2016-01-31 20:05:46 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:05:46,234 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:18:54 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:18:54,900 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:28:55 ERROR :69 - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:28:55,876 [ERROR]  - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:28:55 DEBUG :54 - Servidor Grifos Iniciado
+2016-01-31 20:28:55,931 [DEBUG]  - Servidor Grifos Iniciado
+2016-01-31 20:33:16 ERROR :69 - error parametros de config SQLCan't find resource for bundle java.util.PropertyResourceBundle, key 300|5|5584|5
+2016-01-31 20:33:16,181 [ERROR]  - error parametros de config SQLCan't find resource for bundle java.util.PropertyResourceBundle, key 300|5|5584|5
+2016-01-31 20:45:33 ERROR :69 - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:45:33,451 [ERROR]  - error parametros de config Can't find resource for bundle java.util.PropertyResourceBundle, key puerto
+2016-01-31 20:45:33 DEBUG :54 - Servidor Grifos Iniciado
+2016-01-31 20:45:33,509 [DEBUG]  - Servidor Grifos Iniciado
+2016-01-31 20:47:19 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:47:19,260 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:52:10 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 20:52:10,872 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 21:00:06 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 21:00:06,462 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 21:02:51 ERROR :69 - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 21:02:51,015 [ERROR]  - execute command denied to user 'wposs'@'%' for routine 'autotaxi.pagar_cargera'
+2016-01-31 21:12:09 DEBUG :54 - Servidor Detenido
+2016-01-31 21:12:09,756 [DEBUG]  - Servidor Detenido
+2016-01-31 21:12:09 ERROR :69 - Socket closed
+2016-01-31 21:12:09,805 [ERROR]  - Socket closed
